@@ -1,0 +1,5 @@
+com\fitness\model\Goal.class
+com\fitness\App$1.class
+com\fitness\service\ReminderService.class
+com\fitness\App.class
+com\fitness\storage\FileStorage.class
